@@ -1,7 +1,7 @@
 import React from 'react';
-import './article.css';
+import './footer.css';
 
-const Article = () => {
+const Footer = () => {
     return (
         <div>
             
@@ -9,4 +9,4 @@ const Article = () => {
     )
 }
 
-export default Article
+export default Footer

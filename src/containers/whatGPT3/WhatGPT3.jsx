@@ -1,7 +1,7 @@
 import React from 'react';
-import './article.css';
+import './whatGPT3.css';
 
-const Article = () => {
+const WhatGPT3 = () => {
     return (
         <div>
             
@@ -9,4 +9,4 @@ const Article = () => {
     )
 }
 
-export default Article
+export default WhatGPT3

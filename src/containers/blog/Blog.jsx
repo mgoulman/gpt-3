@@ -1,7 +1,7 @@
 import React from 'react';
-import './article.css';
+import './blog.css';
 
-const Article = () => {
+const Blog = () => {
     return (
         <div>
             
@@ -9,4 +9,4 @@ const Article = () => {
     )
 }
 
-export default Article
+export default Blog
