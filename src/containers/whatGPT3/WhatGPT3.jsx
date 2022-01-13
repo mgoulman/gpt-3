@@ -3,7 +3,7 @@ import './whatGPT3.css';
 
 const WhatGPT3 = () => {
     return (
-        <div>
+        <div className="gpt3__wgpt3">
             
         </div>
     )
